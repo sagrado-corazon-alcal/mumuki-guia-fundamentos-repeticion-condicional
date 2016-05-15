@@ -1,6 +1,4 @@
-Comencemos con uno de los problemas que planteamos recién: escribir un procedimiento que mueva el cabezal hasta un extremo del tablero. 
-
-Este procedimiento debería funcionar de forma tal que si yo hago `IrAlExtremo(Este)`, el cabezal se posiciona _"lo más al Este"_ que pueda, conservando la fila en la que está (y de igual forma para cualquiera de las otras direcciones).
+Comencemos con uno de los problemas que planteamos recién: escribir un procedimiento que mueva el cabezal hasta un extremo del tablero. Este procedimiento debería funcionar de forma tal que si yo hago `IrAlExtremo(Este)`, el cabezal se posiciona _"lo más al Este"_ que pueda, conservando la fila en la que está (y de igual forma para cualquiera de las otras direcciones).
 
 Probablemente tu primera idea sea intentar algo con `MoverN`, pero como ya dijimos eso no sirve; no tenemos forma de saber cuántas veces hay que moverse: podrían ser 3, 12 o ninguna.
 
