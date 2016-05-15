@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: IrAlExtremo
+  inspection: HasUsage:puedeMover
+- binding: IrAlExtremo
+  inspection: HasArity:1
+- binding: IrAlExtremo
+  inspection: HasWhile
