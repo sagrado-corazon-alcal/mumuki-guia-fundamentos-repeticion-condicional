@@ -2,5 +2,6 @@ La fiesta [se terminó, ya se va la gente](https://www.youtube.com/watch?v=VLqa3
 
 La tarea es entonces un poquito más compleja, porque además de levantar la alfombra hay que barrer la mugre. ¡Buen momento para dividir en subtareas!
 
-> * Escribí `LimpiarYSacarAlfombra()`, que se encargue de barrer la basura y levantar la alfombra. No sabemos cuánta basura hay en cada celda, incluso podría no haber nada.
-> * Usando `LimpiarYSacarAlfombra()` implementá `LevantarAlfombraHacia(direccion)`, que saque tanto la alfombra como los residuos, en la dirección dada.
+> Escribí `LimpiarYSacarAlfombra()`, que se encargue de barrer la basura y levantar la alfombra. No sabemos cuánta basura hay en cada celda, incluso podría no haber nada.
+> 
+> Usando `LimpiarYSacarAlfombra()` implementá `LevantarAlfombraHacia(direccion)`, que saque tanto la alfombra como los residuos, en la dirección dada.
