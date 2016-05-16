@@ -1,0 +1,1 @@
+Para resolver `LimpiarYSacarAlfombra()`, podés usar sin definir el procedimiento `SacarTodas(color)` que creamos en la guía de expresiones. Como no sabemos qué tanta basura va a haber en cada celda, hay que sacar todo lo que haya de todos los colores.

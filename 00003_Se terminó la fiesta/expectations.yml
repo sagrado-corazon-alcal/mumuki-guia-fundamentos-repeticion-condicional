@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: LimpiarYSacarAlfombra
+  inspection: HasBinding
+- binding: LevantarAlfombraHacia
+  inspection: HasUsage:LimpiarYSacarAlfombra
+- binding: LevantarAlfombraHacia
+  inspection: HasUsage:puedeMover
+- binding: LevantarAlfombraHacia
+  inspection: HasWhile
