@@ -1,0 +1,1 @@
+En el **bloque** que acompaña al `while` también se pueden poner varios comandos, como ya habíamos visto en el `repeat` y en el `if`.

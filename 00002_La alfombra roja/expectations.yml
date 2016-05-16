@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: DesplegarAlfombraHacia
+  inspection: HasWhile
+- binding: DesplegarAlfombraHacia
+  inspection: HasUsage:puedeMover

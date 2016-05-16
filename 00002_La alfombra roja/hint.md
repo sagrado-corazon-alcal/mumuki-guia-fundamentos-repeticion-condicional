@@ -1,0 +1,1 @@
+Ojo que en cada repetición tenés que hacer dos cosas: moverte un paso y desplegar la alfombra (o sea, poner una bolita roja).
