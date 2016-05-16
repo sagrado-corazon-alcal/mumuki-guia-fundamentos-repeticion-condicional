@@ -1,6 +1,6 @@
-Durante los próximos ejercicios vamos a usar el tablero de Gobstones para modelar una serie de situaciones que tiene que atravesar nuestro amigo, el mochilero Alexander (Alex para los amigos y conocidos).
+Durante los próximos ejercicios vamos a usar el tablero de Gobstones para modelar una serie de situaciones que tiene que atravesar nuestro amigo, el viajero Alexander (Alex para los amigos y conocidos).
 
-En su ruta, Alex atravesará varios obstáculos, que vamos a **representar** con bolitas de distintos colores:
+En su ruta, atravesará varios obstáculos, que vamos a **representar** con bolitas de distintos colores:
 
 * con **Azul**, las paredes de una montaña;
 * con **Rojo**, la presencia de un río;
