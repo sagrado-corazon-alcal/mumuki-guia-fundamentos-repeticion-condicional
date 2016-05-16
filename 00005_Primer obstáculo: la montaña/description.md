@@ -2,6 +2,6 @@ En determinado punto del viaje, Alex tiene que escalar una montaña. Como ya dij
 
 ![Montaña]()
 
-Vamos a hacer un procedimiento que le sirva al viajero para escalar **cualquier** montaña, asumiendo que la misma siempre va a estar **al Este** de su ubicación. La escalada la vamos a hacer
+Vamos a hacer un procedimiento que le sirva al viajero para escalar **cualquier** montaña, asumiendo que la misma siempre va a estar **al Este** de su ubicación. La escalada la vamos a hacer por etapas, en cada etapa hay que subir hasta el siguiente descanso; en el ejemplo, el primer descanso está en la posición (1, 2).
 
 > Implementá el procedimiento `TreparHastaDescanso()`, que deje a nuestro amigo en el primer descanso que haya en la montaña.
