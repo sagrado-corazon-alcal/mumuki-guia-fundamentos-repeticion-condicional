@@ -1,0 +1,21 @@
+procedure PonerN(n, color) {
+  repeat(n) {
+    Poner(color)
+  }
+}
+
+procedure SacarN(n, color) {
+  repeat(n) {
+    Sacar(color)
+  }
+}
+
+procedure MoverN(n, dir) {
+  repeat(n) {
+    Mover(dir)
+  }
+}
+
+procedure SacarTodas(color) {
+  SacarN(nroBolitas(color), color)
+}
