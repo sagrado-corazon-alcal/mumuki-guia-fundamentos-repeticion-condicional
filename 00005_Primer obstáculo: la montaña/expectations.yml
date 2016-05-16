@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: TreparHastaDescanso
+  inspection: HasUsage:hayParedAl
+- binding: TreparHastaDescanso
+  inspection: HasWhile

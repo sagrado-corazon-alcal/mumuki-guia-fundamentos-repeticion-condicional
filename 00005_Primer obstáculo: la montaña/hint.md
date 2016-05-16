@@ -1,0 +1,1 @@
+Como te imaginarás, este es un buen lugar para usar la función `hayParedAl(direccion)` que definiste recién. La idea principal acá es que hay que trepar **mientras** haya montaña al este, y luego moverse una vez para quedar sobre la montaña (porque claro, no lo podemos dejar a Alex en el aire).
