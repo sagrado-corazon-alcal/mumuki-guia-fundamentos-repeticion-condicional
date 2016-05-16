@@ -1,4 +1,4 @@
-La fiesta terminó, y es momento de levantar la alfombra roja. Pero hay algo más: muchos de nuestros invitadas e invitados también dejaron varias cosas tiradas en la alfombra, latitas verdes, papeles azules, cigarrillos negros.
+La fiesta [ya se terminó, ya se va la gente](https://www.youtube.com/watch?v=VLqa3ekhmgE), y es momento de levantar la alfombra roja. Pero hay algo más: muchos de nuestros invitadas e invitados dejaron cosas tiradas en la alfombra, latitas verdes, papeles azules, cigarrillos negros.
 
 La tarea es entonces un poquito más compleja, porque además de levantar la alfombra hay que barrer la mugre. ¡Buen momento para dividir en subtareas!
 
