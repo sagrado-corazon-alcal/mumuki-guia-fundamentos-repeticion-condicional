@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: BuscarComida
+  inspection: HasArity:1
+- binding: BuscarComida
+  inspection: HasWhile
+- binding: BuscarComida
+  inspection: HasUsage:hayPlantaComestible
