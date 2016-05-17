@@ -2,4 +2,6 @@ Lo primero que vamos a hacer es modelar un procedimiento para que nuestro amigo 
 
 Nosotros creamos por vos la función `hayPlantaComestible()`, que indica si eso se cumple para la celda actual. Tenés que usarla para resolver la tarea que te proponemos.
 
+Obviamente, **no sabemos de antemano dónde hay plantas** y por lo tanto tendremos que **recorrer** el tablero hasta encontrar una.
+
 > Definí el procedimiento `BuscarComida(dreccion)`, que deje a Alex (el cabezal) en la primera celda en la dirección dada que tenga una planta comestible.
