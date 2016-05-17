@@ -1,0 +1,3 @@
+function hayPlantaComestible() {
+  return (hayBolitas(Verde))
+}

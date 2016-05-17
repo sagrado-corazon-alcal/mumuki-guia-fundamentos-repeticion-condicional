@@ -1,0 +1,1 @@
+La pregunta del `while` puede ser cualquier **expresión booleana**: una función predefinida como `puedeMover`, una función nuestra como `hayPlanta`, etc.
