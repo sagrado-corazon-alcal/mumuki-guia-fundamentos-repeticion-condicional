@@ -1,0 +1,1 @@
+Nuevamente llegó el momento de procurarse el alimento, pero esta vez Alex encontró un campo lleno de plantas.

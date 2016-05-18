@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: RecolectarPlantasDeFila
+  inspection: HasWhile
+- binding: RecolectarPlantasDeFila
+  inspection: HasUsage:hayPlanta
+- binding: RecolectarPlantasDeFila
+  inspection: HasUsage:puedeMover
