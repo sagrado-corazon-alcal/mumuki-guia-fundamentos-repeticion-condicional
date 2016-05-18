@@ -3,7 +3,7 @@ expectations:
 - binding: RecolectarPlantasDeFila
   inspection: HasWhile
 - binding: RecolectarPlantasDeFila
-  inspection: HasUsage:hayPlanta
+  inspection: HasUsage:hayPlantaComestible
 - binding: RecolectarPlantasDeFila
   inspection: HasUsage:puedeMover
 - binding: RecolectarPlantasDeFila
