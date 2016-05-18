@@ -3,7 +3,7 @@ Durante los próximos ejercicios vamos a usar el tablero de Gobstones para model
 En su ruta, atravesará varios obstáculos, que vamos a **representar** con bolitas de distintos colores:
 
 * con **Azul**, las paredes de una montaña;
-* con **Rojo**, la presencia de un río;
+* con **Rojo**, la maleza;
 * con **Verde**, una planta comestible;
 * con **Negro**, una planta venenosa;
 
