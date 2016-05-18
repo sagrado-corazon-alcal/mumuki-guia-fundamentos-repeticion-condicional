@@ -1,0 +1,9 @@
+procedure SacarN(n, color) {
+  repeat(n) {
+    Sacar(color)
+  }
+}
+
+procedure SacarTodas(color) {
+  SacarN(nroBolitas(color), color)
+}
