@@ -1,0 +1,7 @@
+function hayPlantaComestible() {
+  return (hayBolitas(Verde))
+}
+
+procedure RecolectarPlanta() {
+  Sacar(Verde)
+}

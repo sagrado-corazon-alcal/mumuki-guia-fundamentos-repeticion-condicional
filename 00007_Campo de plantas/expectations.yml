@@ -6,3 +6,5 @@ expectations:
   inspection: HasUsage:hayPlanta
 - binding: RecolectarPlantasDeFila
   inspection: HasUsage:puedeMover
+- binding: RecolectarPlantasDeFila
+  inspection: HasUsage:RecolectarPlanta
