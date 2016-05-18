@@ -4,7 +4,8 @@ En su ruta, atravesará varios obstáculos, que vamos a **representar** con boli
 
 * con **Azul**, las paredes de una montaña;
 * con **Rojo**, la presencia de un río;
-* con **Verde**, una planta comestible.
+* con **Verde**, una planta comestible;
+* con **Negro**, una planta venenosa;
 
 A Alex lo vamos a representar simplemente con el cabezal.
 
