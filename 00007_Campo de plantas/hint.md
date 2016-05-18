@@ -1,0 +1,1 @@
+Ojo que en la última celda **también puede haber una planta**, ese caso vas a tener que manejarlo por separado.
