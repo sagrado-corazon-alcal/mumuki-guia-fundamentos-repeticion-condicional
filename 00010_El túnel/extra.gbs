@@ -1,0 +1,12 @@
+function hayParedAl(direccion) {
+    Mover(direccion)
+    return (hayPared())
+}
+
+function hayPared() {
+  return (hayBolitas(Azul))
+}
+
+procedure PicarPared() {
+  Sacar(Azul)
+}
