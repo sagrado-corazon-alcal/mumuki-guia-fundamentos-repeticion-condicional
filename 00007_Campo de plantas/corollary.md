@@ -1,2 +1,1 @@
-<!--Hablar sobre el caso borde, quizás tirar el esquema de while-->
-# Completar
+Como dedujiste, acá también hay que considerar el **caso borde**, y en este caso eso significa **si hay una planta comestible, recolectala**. Cuidado con esto último: hay veces que ese "hacerlo una vez más" implica repetir más de un comando.
