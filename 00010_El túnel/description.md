@@ -1,1 +1,1 @@
-Hay que cavar.
+Nos encontramos ahora con ciertas montañas que, por su gran altura, es más fácil cavar un túnel que treparlas. 
