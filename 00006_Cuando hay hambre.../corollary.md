@@ -1,1 +1,1 @@
-La pregunta del `while` puede ser cualquier **expresión booleana**: una función predefinida como `puedeMover`, una función nuestra como `hayPlanta`, etc.
+La pregunta del `while` puede ser cualquier **expresión booleana**: una función predefinida como `puedeMover`, una función nuestra como `hayPlanta`, una comparación entre números o cualquiera de las anteriores combinada con alguno de los **conectivos lógicos** que ya vimos (`not`, `&&`, `||`).

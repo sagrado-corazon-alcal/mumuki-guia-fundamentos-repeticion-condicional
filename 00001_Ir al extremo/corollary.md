@@ -1,0 +1,1 @@
+Te presentamos al `while`, una nueva herramienta para **repetir** que nos sirve para los casos en que **no sabemos cuántas repeticiones** serán necesarias para cumplir nuestra tarea.
