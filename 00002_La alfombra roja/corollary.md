@@ -1,1 +1,1 @@
-En el **bloque** que acompaña al `while` también se pueden poner varios comandos, como ya habíamos visto en el `repeat` y en el `if`.
+Los problemas para los cuales el `while` es útil siempre van a tener la misma pinta: necesitamos hacer algo una cantidad de veces que no conocemos (que incluso podría ser ninguna), pero sí sabemos **cuándo hay que dejar de hacerlo** y podemos escribir eso último como una **expresión booleana**.
