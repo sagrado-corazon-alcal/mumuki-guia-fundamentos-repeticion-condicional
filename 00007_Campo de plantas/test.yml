@@ -1,6 +1,6 @@
 check_head_position: true
 
-subject: RecolectarPlantasEnFila
+subject: RecolectarPlantasDeFila
 
 examples:
  - initial_board: |

@@ -2,7 +2,9 @@
 expectations:
 - binding: CavarTunel
   inspection: HasWhile
+  verb: 
 - binding: CavarTunel
   inspection: HasUsage:PicarPared
+  verb: 
 - binding: CavarTunel
   inspection: HasUsage:hayParedAl

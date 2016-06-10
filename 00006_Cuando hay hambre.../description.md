@@ -4,4 +4,4 @@ Obviamente, **no sabemos de antemano dónde hay plantas** y por lo tanto tendrem
 
 Nosotros creamos por vos la función `hayPlantaComestible()`, que indica si eso se cumple para la celda actual. Tenés que usarla para resolver la tarea que te proponemos.
 
-> Definí el procedimiento `BuscarComida(dreccion)`, que deje a Alex (el cabezal) en la primera celda en la dirección dada que tenga una planta comestible.
+> Definí el procedimiento `BuscarComida(direccion)`, que deje a Alex (el cabezal) en la primera celda en la dirección dada que tenga una planta comestible.

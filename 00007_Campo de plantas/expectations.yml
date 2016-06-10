@@ -1,10 +1,10 @@
 ---
 expectations:
-- binding: RecolectarPlantasEnFila
+- binding: RecolectarPlantasDeFila
   inspection: HasWhile
-- binding: RecolectarPlantasEnFila
+- binding: RecolectarPlantasDeFila
   inspection: HasUsage:hayPlantaComestible
-- binding: RecolectarPlantasEnFila
+- binding: RecolectarPlantasDeFila
   inspection: HasUsage:puedeMover
-- binding: RecolectarPlantasEnFila
+- binding: RecolectarPlantasDeFila
   inspection: HasUsage:RecolectarPlanta
