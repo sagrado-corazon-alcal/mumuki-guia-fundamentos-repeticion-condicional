@@ -2,4 +2,3 @@
 expectations:
 - binding: hayParedAl
   inspection: HasUsage:hayPared
-  verb: 
