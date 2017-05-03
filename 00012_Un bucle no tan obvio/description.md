@@ -1,6 +1,6 @@
 Veamos otro ejemplo de **bucle infinito** (así se llama a esto de los `while` que **no terminan**).
 
-```puppet
+```gobstones
 procedure PaLanteYPaTras() {
   while (puedeMover(Norte)) {
     Mover(Norte)

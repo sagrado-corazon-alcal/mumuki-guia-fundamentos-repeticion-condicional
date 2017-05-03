@@ -1,6 +1,6 @@
 Todo muy lindo esto del `while`, pero ¿qué pasa si la pregunta **siempre es verdadera**? Veamosló con un ejemplo:
 
-```puppet
+```gobstones
 procedure HastaElInfinito() {
   while (puedeMover(Este)) {
     Poner(Rojo)

@@ -10,7 +10,7 @@ Lo que sí sabemos es que existe una función `puedeMover(direccion)` que nos in
 
 Bueno, exactamente esa es la forma de resolverlo, y (por esta vez) va de regalo: :gift:
 
-```puppet
+```gobstones
 procedure IrAlExtremo(direccion) {
   while (puedeMover(direccion)) {
     Mover(direccion)

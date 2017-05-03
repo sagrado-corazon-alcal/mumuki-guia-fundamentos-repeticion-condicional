@@ -14,7 +14,7 @@ teacher_info: |-
 
   * Dominios
 language: gobstones
-id_format: '%05d'
+id_format: "%05d"
 order:
 - 1
 - 9
