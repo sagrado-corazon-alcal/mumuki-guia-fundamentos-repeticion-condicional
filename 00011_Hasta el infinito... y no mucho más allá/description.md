@@ -1,4 +1,4 @@
-Todo muy lindo esto del `while`, pero ¿qué pasa si la pregunta **siempre es verdadera**? Veamosló con un ejemplo:
+Todo muy lindo esto del `while`, pero ¿qué pasa si la pregunta **siempre es verdadera**? Veamoslo con un ejemplo:
 
 ```gobstones
 procedure HastaElInfinito() {
@@ -8,4 +8,4 @@ procedure HastaElInfinito() {
 }
 ```
 
-> ¿Cuándo terminará ese procedimiento? Averigualo: copiá el código en el editor y fijate qué hace.
+> ¿Cuándo terminará ese procedimiento? Averigualo: escribí el código en el editor y fijate qué hace.
