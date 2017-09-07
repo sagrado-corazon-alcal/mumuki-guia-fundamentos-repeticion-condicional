@@ -10,4 +10,4 @@ procedure PaLanteYPaTras() {
 }
 ```
 
-> Pegá el código en el editor y fijate cómo (no) funciona.
+> Escribí el código en el editor y fijate cómo (no) funciona.
