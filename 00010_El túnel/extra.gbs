@@ -1,11 +1,11 @@
 function hayParedAl(direccion) {
-    ret := puedeMover(direccion)
+    puede := puedeMover(direccion)
     
-    if (ret) {
+    if (puede) {
       Mover(direccion)
     }
     
-    return (ret && hayPared())
+    return (puede && hayPared())
 }
 
 function hayPared() {
