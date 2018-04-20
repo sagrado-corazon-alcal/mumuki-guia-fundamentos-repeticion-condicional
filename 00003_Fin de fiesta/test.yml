@@ -32,8 +32,7 @@ examples:
      GBB/1.0
      size 5 2
      head 0 0
-     
-- arguments:
+ - arguments:
    - Oeste
    initial_board: |
      GBB/1.0
