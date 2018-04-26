@@ -4,6 +4,7 @@ subject: LevantarAlfombraHacia
 
 examples:
  - arguments:
+   title: 'LevantarAlfombraHacia(Este)'
    - Este
    initial_board: |
      GBB/1.0
@@ -19,6 +20,7 @@ examples:
      head 4 0
      
  - arguments:
+   title: 'LevantarAlfombraHacia(Oeste)'
    - Oeste
    initial_board: |
      GBB/1.0
@@ -33,6 +35,7 @@ examples:
      size 5 2
      head 0 0
  - arguments:
+   title: 'LevantarAlfombraHacia(Oeste)'
    - Oeste
    initial_board: |
      GBB/1.0
