@@ -1,4 +1,4 @@
-Lo primero que vamos a hacer es modelar un procedimiento para que nuestro amigo aventurero pueda salir a buscar comida: básicamente plantas, que como ya dijimos, las representamos con bolitas verdes.
+Lo primero que vamos a hacer es modelar un procedimiento para que nuestro amigo aventurero pueda salir a buscar comida: básicamente plantas que, como ya dijimos, las representamos con bolitas verdes.
 
 Obviamente, **no sabemos de antemano dónde hay plantas** y por lo tanto tendremos que **recorrer** el tablero hasta encontrar una.
 
