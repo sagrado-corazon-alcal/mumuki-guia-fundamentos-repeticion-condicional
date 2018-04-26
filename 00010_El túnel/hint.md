@@ -1,0 +1,88 @@
+Hay dos posibilidades: 
+
+* que termine el túnel antes de que se acabe el tablero:
+
+<table class= "table" style="width:100%">
+  <thead>
+  <tr>
+    <th style="text-align: center">Inicial</th>
+    <th style="text-align: center"></th> 
+    <th style="text-align: center">Final</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td style="text-align: center">  
+      <gs-board>
+        GBB/1.0
+        size 4 3
+        cell 1 1 Azul 1
+        cell 1 2 Azul 1
+        cell 2 1 Azul 1
+        cell 0 0 Azul 1
+        cell 1 0 Azul 1
+        cell 2 0 Azul 1
+        cell 3 0 Azul 1
+        head 0 1
+      </gs-board>
+    </td>
+    <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
+    <td style="text-align: center">
+      <gs-board>
+        GBB/1.0
+        size 4 3
+        cell 1 2 Azul 1
+        cell 0 0 Azul 1
+        cell 1 0 Azul 1
+        cell 2 0 Azul 1
+        cell 3 0 Azul 1
+        head 3 1
+      </gs-board>
+    </td>
+  </tr>
+  <tbody>
+</table>
+
+* que se termine el tablero, y la pared continúe:
+
+<table class= "table" style="width:100%">
+  <thead>
+  <tr>
+    <th style="text-align: center">Inicial</th>
+    <th style="text-align: center"></th> 
+    <th style="text-align: center">Final</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td style="text-align: center">  
+      <gs-board>
+        GBB/1.0
+        size 4 3
+        cell 1 1 Azul 1
+        cell 1 2 Azul 1
+        cell 2 1 Azul 1
+        cell 3 1 Azul 1
+        cell 0 0 Azul 1
+        cell 1 0 Azul 1
+        cell 2 0 Azul 1
+        cell 3 0 Azul 1
+        head 0 1
+      </gs-board>
+    </td>
+    <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
+    <td style="text-align: center">
+      <gs-board>
+        GBB/1.0
+        size 4 3
+        cell 1 2 Azul 1
+        cell 0 0 Azul 1
+        cell 1 0 Azul 1
+        cell 2 0 Azul 1
+        cell 3 0 Azul 1
+        head 3 1
+      </gs-board>
+    </td>
+  </tr>
+  <tbody>
+</table>
