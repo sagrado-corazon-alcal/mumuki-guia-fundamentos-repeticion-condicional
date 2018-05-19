@@ -8,3 +8,5 @@ expectations:
   inspection: HasUsage:puedeMover
 - binding: LevantarAlfombraHacia
   inspection: HasWhile
+- binding: LimpiarYSacarAlfombra
+  inspection: Not:UsesIf
