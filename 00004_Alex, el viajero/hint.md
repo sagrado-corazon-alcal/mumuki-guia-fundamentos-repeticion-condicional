@@ -1,0 +1,1 @@
+Recordá que si bien nosotros podemos mirar todo el tablero, hay que mover el cabezal para verificar o hacer cosas en un casillero determinado.
