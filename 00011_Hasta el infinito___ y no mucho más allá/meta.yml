@@ -3,6 +3,7 @@ tags: []
 layout: input_right
 editor: code
 type: problem
-extra_visible: true
+extra_visible: false
 manual_evaluation: false
 choices: []
+name: Hasta el infinito... y no mucho más allá
