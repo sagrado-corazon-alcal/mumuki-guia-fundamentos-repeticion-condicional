@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: RecolectarPlantasEnFila
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: RecolectarPlantasEnFila
   inspection: HasWhile
-- binding: RecolectarPlantasEnFila
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: RecolectarPlantasEnFila
   inspection: HasUsage:hayPlantaComestible
-- binding: RecolectarPlantasEnFila
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: RecolectarPlantasEnFila
   inspection: HasUsage:puedeMover
-- binding: RecolectarPlantasEnFila
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: RecolectarPlantasEnFila
   inspection: HasUsage:RecolectarPlanta

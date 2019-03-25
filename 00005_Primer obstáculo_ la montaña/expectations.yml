@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: TreparHastaDescanso
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: TreparHastaDescanso
   inspection: HasUsage:hayParedAl
-- binding: TreparHastaDescanso
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: TreparHastaDescanso
   inspection: HasWhile

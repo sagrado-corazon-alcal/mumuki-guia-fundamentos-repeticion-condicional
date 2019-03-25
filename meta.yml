@@ -3,16 +3,6 @@ name: Repetición condicional
 locale: es
 type: practice
 beta: false
-teacher_info: |-
-  # Objetivos principales
-
-  * Herramienta de repetición controlada por una pregunta (expresión booleana)
-  * Caso borde: hay que procesar por fuera el último caso
-  * No terminación: ahora es posible escribir programas que no terminan, hay que tener cuidado de que cada iteración se acerque al final (típicamente moviendo)
-
-  # Objetivos secundarios
-
-  * Dominios
 language: gobstones
 id_format: "%05d"
 order:
@@ -28,3 +18,4 @@ order:
 - 8
 - 7
 - 10
+private: false

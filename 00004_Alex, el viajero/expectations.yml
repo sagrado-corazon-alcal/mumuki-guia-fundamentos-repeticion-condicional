@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: hayParedAl
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: hayParedAl
   inspection: HasUsage:hayPared

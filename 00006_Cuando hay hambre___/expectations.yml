@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: BuscarComida
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: BuscarComida
   inspection: HasArity:1
-- binding: BuscarComida
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: BuscarComida
   inspection: HasWhile
-- binding: BuscarComida
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: BuscarComida
   inspection: HasUsage:hayPlantaComestible

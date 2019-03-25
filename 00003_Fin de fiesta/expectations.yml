@@ -1,12 +1,17 @@
 ---
 expectations:
-- binding: LimpiarYSacarAlfombra
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: LimpiarYSacarAlfombra
   inspection: HasBinding
-- binding: LevantarAlfombraHacia
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: LevantarAlfombraHacia
   inspection: HasUsage:LimpiarYSacarAlfombra
-- binding: LevantarAlfombraHacia
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: LevantarAlfombraHacia
   inspection: HasUsage:puedeMover
-- binding: LevantarAlfombraHacia
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: LevantarAlfombraHacia
   inspection: HasWhile
-- binding: LimpiarYSacarAlfombra
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: LimpiarYSacarAlfombra
   inspection: Not:UsesIf

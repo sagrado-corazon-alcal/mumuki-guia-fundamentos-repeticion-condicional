@@ -1,9 +1,9 @@
-Comencemos con un problema que planteamos anteriormente y que ya solucionamos :tada:.
+Comencemos con un problema que planteamos anteriormente y que ya solucionamos.:tada:
 
 ¿Qué pasaba cuando queríamos ir hasta un extremo del tablero? Como no sabíamos cuántas veces teníamos que movernos, no se podía usar `MoverN`.
 Por suerte ya había un procedimiento creado para eso: `IrAlBorde(direccion)`.
 
-Hagamos el nuestro propio, al cual llamaremos `IrAlExtremo(direccion)`, para ver cómo es que funciona :eyes:.
+Hagamos el nuestro propio, al cual llamaremos `IrAlExtremo(direccion)`, para ver cómo es que funciona.:eyes:
 
 Como ya se sabe, existe la función `puedeMover(direccion)` que nos indica si el cabezal puede moverse en una cierta dirección. Con esto y un poco de imaginación, podríamos pensar una forma de repetición que haga lo siguiente:
 

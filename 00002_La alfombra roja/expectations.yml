@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: DesplegarAlfombraHacia
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DesplegarAlfombraHacia
   inspection: HasWhile
-- binding: DesplegarAlfombraHacia
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DesplegarAlfombraHacia
   inspection: HasUsage:puedeMover

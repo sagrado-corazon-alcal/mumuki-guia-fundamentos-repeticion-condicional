@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: IrAlExtremo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: IrAlExtremo
   inspection: HasUsage:puedeMover
-- binding: IrAlExtremo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: IrAlExtremo
   inspection: HasArity:1
-- binding: IrAlExtremo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: IrAlExtremo
   inspection: HasWhile

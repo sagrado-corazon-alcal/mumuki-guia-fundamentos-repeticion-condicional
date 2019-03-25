@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: CavarTunel
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: CavarTunel
   inspection: HasWhile
-- binding: CavarTunel
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: CavarTunel
   inspection: HasUsage:PicarPared
-- binding: CavarTunel
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: CavarTunel
   inspection: HasUsage:hayParedAl

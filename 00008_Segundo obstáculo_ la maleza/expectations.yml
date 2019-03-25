@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: DesmalezarHacia
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DesmalezarHacia
   inspection: HasWhile
-- binding: DesmalezarHacia
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DesmalezarHacia
   inspection: HasUsage:puedeMover
-- binding: DesmalezarHacia
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DesmalezarHacia
   inspection: HasUsage:UsarHoz
